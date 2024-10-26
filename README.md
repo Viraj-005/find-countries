@@ -56,9 +56,6 @@ If needed, modify `config.example.php` to add default values or placeholders, th
 - **REST Countries API**: Provides country data.
 - **Google Maps API**: Displays country locations on a map.
 
-## Screenshots
-![App Screenshot](screenshot.png)
-
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request for any improvements or bug fixes.
 
